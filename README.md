@@ -1,4 +1,5 @@
-**Skill Extraction from Job Descriptions (NER)**
+****Skill Extraction from Job Descriptions (NER)****
+
 This repository contains a progressive series of Jupyter Notebooks exploring different techniques for extracting skills from job descriptions. The core of this study focuses on two main objectives:
 
 1. Ablation Study on SRICL with LLMs: Analyzing the performance improvements by iteratively applying different techniques (SFT, ICL, SRICL) on Large Language Models, particularly Qwen2.5-3B-Instruct.
